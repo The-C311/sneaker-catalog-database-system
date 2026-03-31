@@ -1,0 +1,1 @@
+-- TODO: Replace this placeholder with the full Milestone 2 SQL script (lastname_firstname_milestone2.sql)
