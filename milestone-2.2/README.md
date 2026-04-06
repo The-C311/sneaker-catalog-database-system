@@ -4,7 +4,7 @@ This folder contains the SQL file for Milestone 2.2.
 The final file will include all required queries demonstrating that the database created in Milestone 2.1 works correctly.
 
 ## Deliverable
-**File:** `lastname_firstname_milestone2.2.sql`  
+**File:** `Hall_Marcellus_milestone2.2.sql`  
 This SQL file will contain:
 - Basic retrieval queries  
 - Filtering queries  
