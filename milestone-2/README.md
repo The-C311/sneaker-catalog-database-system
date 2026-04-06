@@ -1,8 +1,16 @@
 # Milestone 2 — Database Implementation
 
-Deliverable file: milestone-2/Hall_Marcellus_milestone2.sql
+## Status
+The file `Hall_Marcellus_milestone2.sql` now contains the full SQL implementation for Milestone 2.
 
-This placeholder file will be replaced with the full SQL script that:
-- Creates the database and tables
-- Adds primary keys, foreign keys, and constraints
-- Inserts realistic seed data (10+ records per main table)
+## Contents
+This SQL script includes:
+- Database creation
+- All tables from Milestone 1
+- Primary keys and foreign keys
+- Constraints (NOT NULL, UNIQUE, DEFAULT, AUTO_INCREMENT)
+- Realistic seed data (10+ records per main table)
+
+## How to Run
+```bash
+mysql -u <The-C311> -p < milestone-2/Hall_Marcellus_milestone2.sql
